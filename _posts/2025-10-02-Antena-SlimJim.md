@@ -15,6 +15,8 @@ La Slim Jim se basa en un dipolo plegado, alimentado por el extremo. Utiliza com
 Para la banda de 868 mHz(34cm).
 Para las dimensiones de cada elemento, vamos a utilizar una calculadora online creada por M0UKD(https://m0ukd.com/calculators/slim-jim-and-j-pole-calculator), con un factor de velocidad de 0,96 (aproximado por ser un conductor de cobre)
 ![Detalle del esquema](/assets/img/slimjim-esquema.png)
+
+
 Obtenemos unas dimensiones de:
 A = 252 mm
 B =166 mm
@@ -32,7 +34,9 @@ Materiales utilizados:
 * Tubo de PVC para la carcasa y separadores impresos en 3d
 
 Para la construcción, imprimí una plantilla para doblar el cable de cobre con la forma necesaria(respetando las medidas y los radios de giro mínimos). Una vez doblado el cable, tocaba soldar la linea de transmisión(coaxial). Este es el punto critico de todo el montaje, ya que para que la adaptación de impedancias fuera perfecta fue necesario soldar y resoldar a diferentes distancias hasta que conseguí una impedancia lo mas cercana posible a los 50 ohmios. Una vez soldado, tocaba construir la carcasa. Use tubos de PVC de diferentes tamaños(para colocar las bridas de cara al montaje fijo) y pegamento de PVC. Para que el elemento radiante no tocara la carcasa, use unos separadores impresos en 3d. Finalmente pinte la antena de blanco para minimizar el desgaste por el sol y las condiciones climáticas.
+
 ![Montaje](/assets/img/slimjim-montaje.jpg)
+
 
 ## 📊 Ajuste y Mediciones (NanoVNA)
 Una vez construida, la antena requiere ajuste fino. Utilicé un analizador vectorial de redes (**NanoVNA**) para ajustar el punto de alimentación.
@@ -44,6 +48,6 @@ El ajuste se realiza moviendo el punto de soldadura milimétricamente hacia arri
 * **ROE:** 1.13
 * **Impedancia:** 48,7 ohm
 
-![Gráfica del NanoVNA](/assets/img/slimjim-vna.jpg)
+![Gráfica del NanoVNA](/assets/img/slimjim-vna.png)
 *(Gráfica de Smith o SWR mostrando el "dip" en la frecuencia correcta)*
 
