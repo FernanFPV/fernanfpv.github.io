@@ -1,6 +1,6 @@
 ---
 title: Diseño y Construcción de Antena Slim Jim para meshtastic
-date: 2025-10-02 10:00:00 +0100
+date: 2025-10-02 10:00:00
 categories: [Proyectos, Radiofrecuencia]
 tags: [antenas, meshtastic, nanovna, diy]
 image:
