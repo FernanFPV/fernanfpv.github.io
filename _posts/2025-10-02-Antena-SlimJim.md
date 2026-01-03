@@ -49,5 +49,5 @@ El ajuste se realiza moviendo el punto de soldadura milimétricamente hacia arri
 * **Impedancia:** 48,7 ohm
 
 ![Gráfica del NanoVNA](/assets/img/slimjim-vna.png)
-*(Gráfica de Smith o SWR mostrando el "dip" en la frecuencia correcta)*
+
 
