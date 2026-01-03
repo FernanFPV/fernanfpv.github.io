@@ -14,6 +14,9 @@ Para crear un nodo meshtastic hay varias cosas necesarias, una de ellas es una a
 La Slim Jim se basa en un dipolo plegado, alimentado por el extremo. Utiliza como plano de tierra la varilla inferior(en forma de J, por eso se parece a la J-pole). 
 Para la banda de 868 mHz(34cm).
 Para las dimensiones de cada elemento, vamos a utilizar una calculadora online creada por M0UKD(https://m0ukd.com/calculators/slim-jim-and-j-pole-calculator), con un factor de velocidad de 0,96 (aproximado por ser un conductor de cobre)
+
+
+
 ![Detalle del esquema](/assets/img/slimjim-esquema.png)
 
 
