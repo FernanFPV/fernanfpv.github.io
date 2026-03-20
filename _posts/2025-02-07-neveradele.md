@@ -1,11 +1,11 @@
 ---
-title: 🎭 Libreto: Reparación de nevera en 6 Actos (Ópera Bufa)
+title: "🎭 Libreto: Reparación de nevera en 6 Actos (Ópera Bufa)"
 date: 2025-02-7 10:00:00
 categories: [Proyectos, Reparaciones]
 tags: [electronica, diy, potencia]
 image:
   path: /assets/img/nevera-open.jpg
-  alt: Una historia Narrada en ópera bufa de la reparación de una nevera
+  alt: "Una historia Narrada en ópera bufa de la reparación de una nevera"
 ---
 
 ## Acto I: L'Obertura (La aparición del antiheroe)
