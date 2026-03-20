@@ -6,24 +6,6 @@ order: 4
 ---
 
 # ¡Hola! 
-## 
-
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![KiCad](https://img.shields.io/badge/-KiCad-3140b2?style=flat&logo=KiCad&logoColor=white)
-![Klipper](https://img.shields.io/badge/-Klipper-FF5733?style=flat&logo=Klipper&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
-
-![Radio](https://img.shields.io/badge/-Radiofrecuencia-005A9C?style=flat&logo=Radio&logoColor=white)
-![SDR](https://img.shields.io/badge/-SDR-FF6600?style=flat&logo=Signal&logoColor=white)
-![FPV](https://img.shields.io/badge/-FPV%20Pilot-FFD700?style=flat&logo=Drone&logoColor=black)
-![Betaflight](https://img.shields.io/badge/-Betaflight-222222?style=flat&logo=Betaflight&logoColor=white)
-![Meshtastic](https://img.shields.io/badge/-Meshtastic-222222?style=flat&logo=meshtastic&logoColor=7cfc00)
-
-
 
 
 ---
@@ -59,3 +41,20 @@ Si tienes un proyecto interesante, una duda sobre mis posts (o algun fallo mio) 
 * 💻 [**GitHub**](https://github.com/fernanfpv)
 * 📡 **EA4HFQ** (Búscame en 2m o en 70cm)
 * 📶  **Meshtastic** [**Soy una Patata 🥔 EA4HFQ**](https://meshview.meshtastic.es/node/2536663526)
+
+
+
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![KiCad](https://img.shields.io/badge/-KiCad-3140b2?style=flat&logo=KiCad&logoColor=white)
+![Klipper](https://img.shields.io/badge/-Klipper-FF5733?style=flat&logo=Klipper&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
+![Radio](https://img.shields.io/badge/-Radiofrecuencia-005A9C?style=flat&logo=Radio&logoColor=white)
+![SDR](https://img.shields.io/badge/-SDR-FF6600?style=flat&logo=Signal&logoColor=white)
+![FPV](https://img.shields.io/badge/-FPV%20Pilot-FFD700?style=flat&logo=Drone&logoColor=black)
+![Betaflight](https://img.shields.io/badge/-Betaflight-222222?style=flat&logo=Betaflight&logoColor=white)
+![Meshtastic](https://img.shields.io/badge/-Meshtastic-222222?style=flat&logo=meshtastic&logoColor=7cfc00)
+
