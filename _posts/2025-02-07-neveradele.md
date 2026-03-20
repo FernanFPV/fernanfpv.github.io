@@ -32,7 +32,9 @@ Y así, henchido de valor, procedió a la canibalización: desguazó varios circ
 
 Con esta pre-hazaña consumada, la lógica dictaba que todo estaba solucionado. Solo quedaba probar la reparación... una prueba que, según todos los cálculos del optimismo, no podía ser otra cosa que un éxito rotundo.
 
+
 ![El error inocente](/assets/img/nevera-falla.jpg)
+
 
 ## Acto III: El Preludio del Error (El falso enemigo)
 
