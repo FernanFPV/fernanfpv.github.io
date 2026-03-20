@@ -45,7 +45,7 @@ Si tienes un proyecto interesante, una duda sobre mis posts (o algun fallo mio) 
 
 
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-3140b2?style=flat&logo=KiCad&logoColor=white)
 ![Klipper](https://img.shields.io/badge/-Klipper-FF5733?style=flat&logo=Klipper&logoColor=white)
@@ -57,4 +57,5 @@ Si tienes un proyecto interesante, una duda sobre mis posts (o algun fallo mio) 
 ![FPV](https://img.shields.io/badge/-FPV%20Pilot-FFD700?style=flat&logo=Drone&logoColor=black)
 ![Betaflight](https://img.shields.io/badge/-Betaflight-222222?style=flat&logo=Betaflight&logoColor=white)
 ![Meshtastic](https://img.shields.io/badge/-Meshtastic-222222?style=flat&logo=meshtastic&logoColor=7cfc00)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
