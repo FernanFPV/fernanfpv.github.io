@@ -94,7 +94,7 @@ Fun fact: Todo este proyecto ha salido porque el horno de mi casa no es capaz de
 
 ## Recursos del proyecto
 
-A ver, dudo que vayáis a construir una máquina igual que esta, porque es bastante específica y está adaptada a los materiales que tenía por casa. Pero ya que el trabajo está hecho, os dejo por aquí un link al repositorio: [Insertar aquí el link, que todavia no he acabado de redactar el repo]().
+A ver, dudo que vayáis a construir una máquina igual que esta, porque es bastante específica y está adaptada a los materiales que tenía por casa. Pero ya que el trabajo está hecho, os dejo por aquí un link al repositorio: [Insertar aquí el link, que todavia no he acabado de redactar el repo](https://github.com/FernanFPV).
 De nada por tanto y gracias por tan poco.
 
 ## Bibliografía y Referencias Técnicas
