@@ -5,7 +5,7 @@ categories: [Proyectos, Radiofrecuencia]
 tags: [meshtastic, diy, redes, faketec, 3dprint, nanovna, antenas]
 image:
   path: /assets/img/faketecnfy-open.jpg
-  alt:Nodo UltraSlim para Meshtastic
+  alt: Nodo-UltraSlim-para-Meshtastic
 ---
 
 
