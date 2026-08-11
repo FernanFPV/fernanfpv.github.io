@@ -61,7 +61,7 @@ Por lo demás, el diseño guapo, guapo. Hice varias piezas para comprobar cuál 
 
 Mientras se imprimía (tranquilamente se tomaba sus 3 horitas), empecé a montar la plaquita FakeTec. Como me salieron tan baratas las PCB hace un tiempo, tenía 28 de ellas guardadas. 
 
-Este paso fue complicado: la placa nRF52 trae unas raspas (*pin headers*) para soldarla a la PCB, pero claro, en un diseño de 8 mm de ancho nos sobran, no las podemos usar. Midiendo otros nodos que sí monté con estas raspas, se quedaban en 1.6 mm de grosor (el doble de lo que me podía permitir). Así que con mucha paciencia, cinta Kapton y cuidado, lo conseguí: un nodo que en su parte más ancha mide 6 mm. 
+Este paso fue complicado: la placa nRF52 trae unas raspas (*pin headers*) para soldarla a la PCB, pero claro, en un diseño de 8 mm de ancho nos sobran, no las podemos usar. Midiendo otros nodos que sí monté con estas raspas, se quedaban en 16 mm de grosor (el doble de lo que me podía permitir). Así que con mucha paciencia, cinta Kapton y cuidado, lo conseguí: un nodo que en su parte más ancha mide 6 mm. 
 
 *(No os hagáis los sorprendidos: tenía que medir 6 mm sí o sí, porque los otros 2 mm son la tapa de arriba y de abajo del nodo).*
 
@@ -101,7 +101,7 @@ Venga, ahora lo monto todo rápido y tirando para adelante. ¿Qué podría salir
 
 ## Fase IV: ¿Dónde está la cámara oculta?
 
-LA ANTENA. ESO ES LO QUE PODÍA SALIR MAL.
+**LA ANTENA. ESO ES LO QUE PODÍA SALIR MAL.**
 
 Mira, no os voy a engañar: no empecé este proyecto dos meses antes justo por este dilema: qué antena poner. La mayoría de diseños que hay por internet se limitan a meter una espiral que venden en AliExpress por 4 o 5 euros (normalmente con los módulos Heltec). Pero claro, es que la mayoría no son telecos, así que se limitan a pillar cosas que *se supone* que funcionan. *(Pista: no lo hacen).*
 
